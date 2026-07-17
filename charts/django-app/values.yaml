@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   repository: 732231074090.dkr.ecr.us-west-2.amazonaws.com/lesson-7-ecr
   pullPolicy: Always
-  tag: "latest"
+  tag: "3-3cf682f"
 
 imagePullSecrets: []
 nameOverride: ""
